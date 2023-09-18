@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "INICIO SESIÓN",
+			"path": "../../INICIO SESIÓN"
+		},
+		{
+			"name": "ProyectoWebEcommerce",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProyectoWebEcommerce"
+	}
+}
